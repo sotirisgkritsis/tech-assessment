@@ -1,0 +1,30 @@
+.Sections{
+    width: 70%;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    margin: 2% 17%;
+    margin: 20px 17% 200px 17%;
+}
+
+.box2 {
+    height: 525px;
+}
+
+.insideBox1{
+    width: 300px;
+    height: 250px;
+}
+
+.insideBox2{
+    width: 300px;
+    height: 250px;
+}
+.insideBox3{
+    width: 300px;
+    height: 250px;
+}
+.insideBox4{
+    width: 300px;
+    height: 250px;
+}

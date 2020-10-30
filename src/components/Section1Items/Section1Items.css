@@ -1,0 +1,9 @@
+img{
+    background-attachment: absolute;
+    height: auto;
+    top: 0px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: center;   
+}
